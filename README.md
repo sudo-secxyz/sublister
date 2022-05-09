@@ -1,0 +1,2 @@
+# sublister
+subdomain checking tool
